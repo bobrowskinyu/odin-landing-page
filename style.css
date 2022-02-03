@@ -64,3 +64,8 @@
     color: #E5E7EB;
 }
 
+.sign-up {
+    align-self: flex-start;
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
