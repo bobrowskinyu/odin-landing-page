@@ -90,8 +90,21 @@
 }
 
 .icon img {
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+.info-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    max-width: 300px;
+    text-align: center;
+    font-size: 18px;
+    color: #1F2937;
+    padding: 50px 15px 15px 0px;
 }
 
 
