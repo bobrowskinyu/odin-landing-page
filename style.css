@@ -111,6 +111,30 @@
     display:flex;
     flex-direction: column;
     background-color: #E5E7EB;
+    padding: 100px 500px 100px 500px;
+}
+
+.quote-text {
+    display: flex;
+    justify-content: center;
+}
+
+.quote-text p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color:#1F2937
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.quote-author p {
+    font-size: 24px;
+    font-weight: bold;
+    color:#1F2937;
 }
 
 
